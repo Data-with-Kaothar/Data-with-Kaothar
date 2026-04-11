@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi there 👋# Hi, I'm Kaothar 👋
 
-<!--
-**Data-with-Kaothar/Data-with-Kaothar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst with a background in Biochemistry  
+🔬 Interested in bioinformatics and data-driven research  
+📊 Skilled in Excel, PowerBi, SQL, R, and Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on
+- Data analysis projects  
+- Learning advanced data visualization  
+- Exploring bioinformatics datasets  
+
+---
+
+## 🛠️ Tools & Skills
+- SQL  
+- R  
+- Python  
+- Excel  
+- Data Visualization  
+
+---
+
+## 📂 Projects
+Sales Data Analysis
+
+---
+🌱 I’m currently developing and advancing my data analytics skills at IOTB Tech
+
+---
+👯 I’m looking to collaborate on health and bioinformatics dataset and welcome positive criticism that can help me grow
+
+---
+  📫 How to reach me:
+  Connect with me on LinkedIn:
+  https://www.linkedin.com/in/kaotharowolabi/
+---
+
+   # 😄 Pronouns
+  She / Her
+  ---
+  
+  #⚡ fun fact
+   I am an extrovert among introvers and an introvert among extrovertsFun fact
+
+  ---
+
+###
+
+
