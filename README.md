@@ -42,7 +42,7 @@ Sales Data Analysis
   ---
   
   #⚡ fun fact
-   I am an extrovert among introvers and an introvert among extrovertsFun fact
+   I am an extrovert among introverts and an introvert among extroverts
 
   ---
 
