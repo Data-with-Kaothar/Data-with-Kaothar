@@ -1,4 +1,4 @@
-## Hi there 👋# Hi, I'm Kaothar 👋
+## Hi, I'm Kaothar 👋
 
 🎯 Data Analyst with a background in Biochemistry  
 🔬 Interested in bioinformatics and data-driven research  
