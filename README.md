@@ -24,6 +24,7 @@
 
 ## 📂 Projects
 kabir-sales-analysis
+
 Sales Data Analysis
 
 ---
