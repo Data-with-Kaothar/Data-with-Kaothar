@@ -1,8 +1,8 @@
 # Hi there, I'm Kaothar Owolabi 👋
 
-### 📊 Aspiring Data Analyst | Biochemistry Graduate | Bridging Biological Insights & Business Analytics
+### 📊 Junior Data Analyst | Biochemistry Graduate | Bridging Biological Insights & Business Analytics
 
-I blend the empirical rigor of **Biochemistry** with practical **Data Analytics** to solve complex problems, optimize operational performance, and uncover actionable business insights. Whether exploring sales performance, workforce metrics, or scientific datasets, I transform raw data into clear, data-driven decisions.
+I bring a scientific mindset and strong data skills together to solve real-world problems and make sense of complex data, optimize operational performance, and uncover actionable business insights. Whether exploring sales performance, workforce metrics, or scientific datasets, I transform raw data into clear, data-driven decisions.
 
 - 🔍 **Analytical Mindset:** Applying scientific inquiry and statistical methods to uncover hidden patterns.
 - 🛠️ **Practical Experience:** Building interactive dashboards, cleaning structured data, and designing relational queries.
@@ -17,7 +17,7 @@ I blend the empirical rigor of **Biochemistry** with practical **Data Analytics*
 | :--- | :--- |
 | **Data Visualization & BI** | Power BI, Power Query, DAX |
 | **Data Analysis & Querying** | SQL, Microsoft Excel (Advanced Pivot Tables, Formulas) |
-| **Programming & Statistics** | Python (Pandas, NumPy), R, Biopython |
+| **Programming & Statistics** | Python (Basics), R (Basics), Biopython (Basics) |
 | **Core Specializations** | Business Intelligence, HR Analytics, Healthcare Analytics, Bioinformatics |
 
 ---
@@ -72,5 +72,5 @@ A targeted commercial performance audit dissecting sales pipelines, regional per
 
 I am always excited to connect with fellow data enthusiasts, recruiters, and industry leaders.
 
-- 💼 **LinkedIn:** [Connect with Kaothar Owolabi](https://www.linkedin.com) *(Add your profile link here)*
+- 💼 **LinkedIn:** [Connect with Kaothar Owolabi](https://www.linkedin.com) 
 - 🐙 **GitHub:** [Explore my repositories](https://github.com/Data-with-Kaothar)
