@@ -1,6 +1,6 @@
 # Hi, I'm Kaothar Owolabi 👋
 
-### Aspiring Data Analyst | Biochemistry Graduate | Data-Driven Problem Solver
+### Junior Data Analyst | Biochemistry Graduate | Data-Driven Problem Solver
 
 I use data to uncover patterns, generate insights, and support better decision-making. With a background in Biochemistry, I'm particularly interested in applying data analytics to business performance, healthcare, and bioinformatics.
 
