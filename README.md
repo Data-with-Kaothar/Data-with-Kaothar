@@ -1,73 +1,76 @@
-# Hi, I'm Kaothar Owolabi 👋
+# Hi there, I'm Kaothar Owolabi 👋
 
-### Junior Data Analyst | Biochemistry Graduate | Data-Driven Problem Solver
+### 📊 Aspiring Data Analyst | Biochemistry Graduate | Bridging Biological Insights & Business Analytics
 
-I use data to uncover patterns, generate insights, and support better decision-making. With a background in Biochemistry, I'm particularly interested in applying data analytics to business performance, healthcare, and bioinformatics.
+I blend the empirical rigor of **Biochemistry** with practical **Data Analytics** to solve complex problems, optimize operational performance, and uncover actionable business insights. Whether exploring sales performance, workforce metrics, or scientific datasets, I transform raw data into clear, data-driven decisions.
 
-- 📊 Building interactive dashboards and exploring datasets to uncover actionable insights.
-- 🧪 Bridging my scientific background with data analytics and research.
-- 🌱 Continuously developing my analytics skills through hands-on projects and training at IOTB Tech.
-- 🤝 Open to collaborating on data analytics, healthcare, and bioinformatics projects, and always willing to learn from constructive feedback.
-
----
-
-### 🛠️ Tools & Technologies
-
-- **Data Visualization:** Power BI
-- **Data Analysis:** Microsoft Excel, SQL
-- **Programming & Statistical Analysis:** R, Python
-- **Currently focused on:** Data storytelling, dashboard development, and analytical problem-solving.
+- 🔍 **Analytical Mindset:** Applying scientific inquiry and statistical methods to uncover hidden patterns.
+- 🛠️ **Practical Experience:** Building interactive dashboards, cleaning structured data, and designing relational queries.
+- 🌱 **Continuous Growth:** Expanding my technical toolset through hands-on analytics training at IOTB Tech.
+- 🤝 **Open to Opportunities:** Eager to connect for data analyst roles, collaborative projects, and feedback.
 
 ---
 
-### 📂 Featured Projects
+## 🧰 Tools & Technologies
 
-#### 📈 Sales Performance Dashboard — Power BI
-
-An interactive sales analytics project exploring revenue, profitability, sales volume, products, retailers, and geographical performance.
-
-**What I worked on:**
-- Developed revenue and profitability dashboard pages.
-- Used interactive slicers, search functionality, and tooltips to improve data exploration.
-- Analyzed performance across products, product lines, retailer types, and cities.
-- Translated the analysis into insights that support business performance evaluation.
-
-**Key insights:**
-
-🔗 [Explore the project on GitHub](https://github.com/Data-with-Kaothar/Sales-Performance)
-
-#### 🗃️ SQL for Data Analysis
-
-Practising SQL queries to retrieve, join, aggregate, and rank data using relational datasets, including AdventureWorks.
-
-**Focus areas:** JOINs, GROUP BY, aggregate functions, and window functions.
-
-*More projects and analysis will be added as I continue building my portfolio.*
+| Domain | Skills & Technologies |
+| :--- | :--- |
+| **Data Visualization & BI** | Power BI, Power Query, DAX |
+| **Data Analysis & Querying** | SQL, Microsoft Excel (Advanced Pivot Tables, Formulas) |
+| **Programming & Statistics** | Python (Pandas, NumPy), R, Biopython |
+| **Core Specializations** | Business Intelligence, HR Analytics, Healthcare Analytics, Bioinformatics |
 
 ---
 
-### 🎯 Areas of Interest
+## 🚀 Featured Projects
 
-- Business and operational analytics
-- Healthcare and bioinformatics
-- Data visualization and storytelling
-- Evidence-based decision-making
+> *Click on a project title to explore the full repository, source code, and interactive dashboards!*
+
+### 📊 [Sales Performance Dashboard](https://github.com/Data-with-Kaothar/Sales-Performance)
+> **Key Focus:** Power BI · DAX · Business Intelligence · Retail Analytics  
+An interactive Power BI dashboard evaluating revenue growth, profitability margins, and regional retailer trends to uncover key revenue drivers and profit bottlenecks.  
+👉 **[View Repository & Dashboard Insights →](https://github.com/Data-with-Kaothar/Sales-Performance)**
+
+### 🛒 [GlobalMart Analysis](https://github.com/Data-with-Kaothar/GlobalMart-Analysis)
+> **Key Focus:** Exploratory Data Analysis · SQL · Business Analytics  
+An end-to-end exploratory analysis identifying operational performance patterns, product demand cycles, and customer purchasing behaviors to support executive decision-making.  
+👉 **[Explore the Analysis & Queries →](https://github.com/Data-with-Kaothar/GlobalMart-Analysis)**
+
+### 👥 [HR Capstone Project](https://github.com/Data-with-Kaothar/HR-CAPSTONE-PROJECT)
+> **Key Focus:** Workforce Analytics · HR Insights · Attrition Modeling  
+A data-driven deep dive into workforce metrics, attrition drivers, and employee demographics to equip HR leadership with strategies for improving talent retention.  
+👉 **[Review HR Metrics & Recommendations →](https://github.com/Data-with-Kaothar/HR-CAPSTONE-PROJECT)**
+
+### 🏥 [IOTB Healthcare Analysis](https://github.com/Data-with-Kaothar/IOTB-Healthcare-Analysis)
+> **Key Focus:** Healthcare Analytics · Patient Outcomes · Clinical Data Processing  
+Applying statistical thinking to health datasets to track patient care patterns, evaluate treatment outcomes, and optimize healthcare operational metrics.  
+👉 **[Discover Healthcare Findings →](https://github.com/Data-with-Kaothar/IOTB-Healthcare-Analysis)**
+
+### 💼 [Kabir Sales Analysis](https://github.com/Data-with-Kaothar/kabir-sales-analysis)
+> **Key Focus:** Sales Forecasting · Performance Metrics · Data Wrangling  
+A targeted commercial performance audit dissecting sales pipelines, regional performance variances, and product profitability to generate evidence-based growth recommendations.  
+👉 **[Check Out the Project Breakdown →](https://github.com/Data-with-Kaothar/kabir-sales-analysis)**
 
 ---
 
-### 🤝 Let's Connect
+## 🎯 Strategic Focus & Interests
 
-I'm open to learning opportunities, meaningful collaborations, and constructive feedback as I grow as a data analyst.
-
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kaotharowolabi/)
-- 🐙 **GitHub:** Explore my repositories and projects here on my profile.
+- **Business Optimization:** Leveraging data to streamline operational workflows and maximize ROI.
+- **People & Workforce Analytics:** Understanding human capital dynamics through quantitative research.
+- **Health & Scientific Analytics:** Applying data analytics and bioinformatics to healthcare systems and computational biology.
 
 ---
 
-### ⚡ A Fun Fact About Me
+## ⚡ Beyond the Code
 
-I'm an extrovert among introverts and an introvert among extroverts. 😄
+- **Fun Fact:** An extrovert among introverts, and an introvert among extroverts! 😄
+- **Pronouns:** She/Her
 
-### 😄 Pronouns
+---
 
-She/Her
+## 🤝 Let's Connect!
+
+I am always excited to connect with fellow data enthusiasts, recruiters, and industry leaders.
+
+- 💼 **LinkedIn:** [Connect with Kaothar Owolabi](https://www.linkedin.com) *(Add your profile link here)*
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/Data-with-Kaothar)
